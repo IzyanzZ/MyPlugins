@@ -1,0 +1,9 @@
+name: MyPlugins
+main: MyPlugins\Main
+author: IzyanzYT5454
+api: 4.0.0
+version: 0.1.0
+
+commands:
+  mypls:
+    description: "My Plugins Command"
